@@ -11,6 +11,7 @@ body{
   margin-top: 50px;
   border: 3px solid;
   border-color: #fe4e3c;
+  box-shadow: 10px 10px #7a84a5;
 }
 h1{
   background-color: #fe4e3c;
