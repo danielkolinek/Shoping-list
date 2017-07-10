@@ -1,4 +1,4 @@
-#Basic shopping list#
+# Basic shopping list#
 
 **HTML5 + CSS3 + jQuery**
 
