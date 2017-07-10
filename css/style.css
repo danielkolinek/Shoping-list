@@ -4,6 +4,8 @@
 }
 body{
   font-family: "Courier New", Courier, monospace;
+  background-color: #e9ebee;
+  color: #e9ebee;
 }
 .container{
   width:400px;
